@@ -1,0 +1,14 @@
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/bin/Debug/net9.0/MonProjet
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/bin/Debug/net9.0/MonProjet.deps.json
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/bin/Debug/net9.0/MonProjet.runtimeconfig.json
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/bin/Debug/net9.0/MonProjet.dll
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/bin/Debug/net9.0/MonProjet.pdb
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.AssemblyInfoInputs.cache
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.AssemblyInfo.cs
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.csproj.CoreCompileInputs.cache
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.dll
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/refint/MonProjet.dll
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.pdb
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/MonProjet.genruntimeconfig.cache
+/Users/dolivianedjieleutchangou/Desktop/game/MonProjet/obj/Debug/net9.0/ref/MonProjet.dll
